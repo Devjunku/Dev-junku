@@ -1,6 +1,10 @@
 ### Hi there 👋
 [![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-junku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 
 
 
