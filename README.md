@@ -1,4 +1,9 @@
 ### Hi there 👋
+[![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-junku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 <!--
 **Dev-junku/Dev-junku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
