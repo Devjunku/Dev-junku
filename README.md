@@ -6,7 +6,7 @@
 
 ---
 
-✅ 여러 알고리즘 사이트의 문제 풀이입니다.  
+✅ 여러 알고리즘 사이트의 문제 풀이를 다룹니다.  
 
 ✅ 프로그래머스, 백준, SWEA를 주로 풀고 있습니다.  
 
@@ -22,7 +22,7 @@
 
 ---
 
-✅ This repository deals with Algorithm problem in Programmers, BOJ, SWEA  
+✅ My repository deals with Algorithm problem in Programmers, BOJ, SWEA  
 
 ✅ And I'm studying about Data Analysis using R, Python  
 
