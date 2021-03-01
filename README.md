@@ -2,15 +2,17 @@
 ### SSAFY 5th
 
 ---
+## 💥 FIELD
+### ⚡ DATA ANALYSIS
+### ⚡ AI
+### ⚡ ML
+### ⚡ ALGORITHM
 
-### DATA ANALYSIS
-### AI
-### ML
-### ALGORITHM
-### R
-### PYTHON
-### HTML
-### CSS
+## 💥 LANGUAGE
+### 😄 R
+### 😄 PYTHON
+### 😄 HTML
+### 😄 CSS
 [![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-junku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -44,7 +46,7 @@
 
 ----
 
-##### ✅ If you want to another my project,  Back to the my repository  
+##### ✅ If you want to another my project,  go to the my repository  
 
 
 
