@@ -1,4 +1,12 @@
 ### Hi, everyone. Welcome to my github 👋
+### SSAFY 5th
+
+---
+
+### DATA ANALYSIS
+### AI
+### ML
+### ALGORITHM
 [![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-junku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
