@@ -1,13 +1,12 @@
 ### Hi, everyone. Welcome to my github 👋
 ### SSAFY 5th
-
 ---
 ## 💥 FIELD
 ### ⚡ DATA ANALYSIS
 ### ⚡ AI
 ### ⚡ ML
 ### ⚡ ALGORITHM
-
+---
 ## 💥 LANGUAGE
 ### 😄 R
 ### 😄 PYTHON
