@@ -1,5 +1,5 @@
 ### Hi, everyone. Welcome to my github 👋
-### SSAFY 5th
+### SSAFY 5th in Seoul
 ---
 ## 💥 FIELD
 ### ⚡ DATA ANALYSIS
