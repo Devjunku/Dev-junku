@@ -6,6 +6,7 @@
 ### ⚡ AI
 ### ⚡ ML
 ### ⚡ ALGORITHM
+### ⚡ WEB
 ---
 ## 💥 LANGUAGE
 ### 😄 R
