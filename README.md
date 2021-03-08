@@ -49,7 +49,7 @@
 
 ----
 
-##### ✅ If you want to another my project,  go to the my repository  
+##### ✅ If you want to search another my project,  go to the my repository  
 
 
 
