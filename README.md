@@ -1,4 +1,4 @@
-### Hi, everyone. Welcome to my github 👋
+### Hi, Everyone. Welcome to my github 👋
 ### SSAFY 5th in Seoul
 ---
 ## 💥 FIELD
