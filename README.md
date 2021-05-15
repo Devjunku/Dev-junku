@@ -11,6 +11,7 @@
 ## 💥 LANGUAGE
 ### 😄 R
 ### 😄 PYTHON
+### 😄 JS
 ### 😄 HTML
 ### 😄 CSS
 ---
