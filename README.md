@@ -17,7 +17,7 @@
 ---
 ## 💥 FrameWork
 ### 😄 BootStrap 
-### 😄 Django (what i have django file code is confidential, so about this code, if i have gotten that, i will commit it in future)
+### 😄 Django (what I have django file code is confidential, so about this code, I will commit it in future)
 ### 😄 Vue
 [![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-junku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
