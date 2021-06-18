@@ -10,6 +10,7 @@
 ## 💥 LANGUAGE
 ### 😄 R
 ### 😄 PYTHON
+### 😄 JAVA
 ### 😄 JS
 ### 😄 HTML
 ### 😄 CSS
