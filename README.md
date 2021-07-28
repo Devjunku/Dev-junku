@@ -60,6 +60,9 @@
 
 ##### ✅ If you want to search another my project,  go to the my repository  
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=junkuill)](https://solved.ac/junkuill)
+
+
 <!--
 **Dev-junku/Dev-junku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
