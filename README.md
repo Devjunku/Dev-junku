@@ -18,13 +18,13 @@
 ### 😄 JS
 ### 😄 HTML
 ### 😄 CSS
-### 😄 KOTlin
+### 😄 KOTlIN
 ### 😄 DART
 ---
 ## 💥 FrameWork
 ### 😄 Django
 ### 😄 Vue
-### 😄 Spring
+### 😄 SPRING
 ### 😄 ANDROID
 ### 😄 FLUTTER
 
