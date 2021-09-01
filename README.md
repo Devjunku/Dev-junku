@@ -9,6 +9,7 @@
 ### ⚡ AI
 ### ⚡ ML
 ### ⚡ WEB
+### ⚡ APP
 ---
 ## 💥 LANGUAGE
 ### 😄 R
@@ -17,12 +18,15 @@
 ### 😄 JS
 ### 😄 HTML
 ### 😄 CSS
+### 😄 KOTlin
+### 😄 DART
 ---
 ## 💥 FrameWork
-### 😄 BootStrap 
-### 😄 Django (what I have django file code is confidential, so about this code, I will commit it in future)
+### 😄 Django
 ### 😄 Vue
 ### 😄 Spring
+### 😄 ANDROID
+### 😄 FLUTTER
 
 [![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjunku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,17 +34,15 @@
 #####  문과생이지만 개발자, 데이터 분석가가 되고 싶어요.  
 
 ---
-✅ R, Python, Java를 공부중이에요.
+✅ R, Python, Java, Kotlin, Dart를 공부중이에요.  
 
-✅ 여러 알고리즘 사이트의 문제 풀이를 다룹니다.  
+✅ 프로그래머스, 백준, SWEA에서 알고리즘을 문제를 풀고 있어요.  
 
-✅ 프로그래머스, 백준, SWEA를 주로 풀고 있습니다.  
+✅ 추가적으로 데이터 분석 관련 R, Python 코딩도 해보려 해요!
 
-✅ 추가적으로 데이터 분석 관련 R, Python 코딩을 진행하고 있습니다.  
+✅ 데이터 분석, AI, ML, DL, Finance에 관심을 두고 있어요!  
 
-✅ 데이터 분석, AI, ML, DL, Finance에 관심을 두고 있습니다.  
-
-✅ 또한 프론트, 백 엔드 관련 코드도 포스팅 할 예정입니다.   
+✅ 또한 프론트, 백 엔드 관련 코드도 포스팅할거에요!
 
 ---
 
