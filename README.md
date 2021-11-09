@@ -31,7 +31,7 @@
 [![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjunku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My git blog https://devjunku.github.io/
-#####  문과생이지만 개발자, 데이터 분석가가 되고 싶어요.  
+#####  문과생이지만 개발자, 데이터 사이언티스트가 되고 싶어요.  
 
 ---
 ✅ R, Python, Java, Kotlin, Dart를 공부중이에요.  
