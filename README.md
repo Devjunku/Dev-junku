@@ -11,7 +11,7 @@
 ### ⚡ WEB
 ### ⚡ APP
 ---
- <h2>💥 LANGUAGE</h2>
+ <h2>💥 LANGUAGE & Tech Skill</h2>
 <span>
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -26,7 +26,9 @@
  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"> </spane>
+ <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+ </spane>
 
 
 [![Junku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjunku&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
