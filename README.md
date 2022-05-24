@@ -36,7 +36,7 @@
 
 ### My git blog https://velog.io/@dev-junku
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=junkuill)](https://solved.ac/junkuill)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=junkuill)](https://solved.ac/junkuill)]
 
 
 <!--
