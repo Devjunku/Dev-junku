@@ -36,8 +36,6 @@
 
 ### My git blog https://velog.io/@dev-junku
 
-[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junkuill)](https://solved.ac/junkuill)
-
  [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junkuill)](https://solved.ac/junkuill)
 
