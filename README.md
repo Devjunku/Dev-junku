@@ -6,7 +6,8 @@
 ### Corporate LOAN Credit Rating System in ICT Group of Shinhan Bank (Now)
 ---
 ## 💥 FIELD
-### 
+### CORE
+### CCRM
 ---
  <h2>💥 LANGUAGE & Tech Skill</h2>
 <span>
